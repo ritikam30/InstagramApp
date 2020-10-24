@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 Post updated in the backend:
 
-<img src='newPost.png'/>
+<img src='newPost.PNG'/>
 
 ## Open-source libraries used
 
