@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkt.gif' />
+<img src='walkt.gif' width='300' alt='Video Walkthrough'/>
 
 ## Part 1
 ### User Stories
